@@ -1,6 +1,6 @@
 {
   "name": "country-list-react-hook",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "this is a simple hook for country list",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
